@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+__pycache__/
+*.ssmssln
+*.ssmssqlproj
+*.code-workspace
